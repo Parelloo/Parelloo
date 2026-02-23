@@ -2,7 +2,9 @@
 
 ### 🌠About Me
 🎓I study Information System at Gunadarma University.
+
 🌏I'm from Jakarta, Indonesia.
+
 📋I just started learning about coding, and currently learning Go. 
 
 (That's it for now, I didn't know what else to write haha.)
